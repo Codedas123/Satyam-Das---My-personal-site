@@ -1,0 +1,57 @@
+.intro {
+   background-color: #EAF6F6;
+  text-align: center;
+  padding : 1px 1px 1px 1px;
+margin-top:1%;
+border-bottom: 1px;
+}
+
+  .body   {
+  background-color: yellow;
+padding: 1px 1px 1px 1px;
+margin-top: 1%;
+border-top: 1px;
+
+}
+h1{
+  color: red;
+}
+h2{
+  color: blue;
+  font-family:cursive;
+}
+h3{
+  color: red;
+}
+h4{
+  font-family: cursive;
+  color:black;
+}
+p{
+  color: purple;
+}
+.body:hover{
+  background-color:white;
+}
+.buttom{
+  text-align: center;
+  background-color: green;
+}
+.buttom2{
+  text-align: center;
+  background-color: pink;
+}
+.buttom:hover{
+  background-color: white;
+}
+.buttom2:hover{
+  background-color: white;
+}
+.buttom3{
+  text-align: center;
+  background-color: brown;
+}
+h5{
+  color: white;
+  font-family: fantasy;
+}
